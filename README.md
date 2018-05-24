@@ -1,29 +1,14 @@
-# README #
+# TWIC APP #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+twic in app browser
 
-### What is this repository for? ###
+### PLUGIN ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* cordova-custom-config 3.2.0 "cordova-custom-config"
+* cordova-plugin-device 1.1.6 "Device"
+* cordova-plugin-dialogs 1.3.2 "Notification"
+* cordova-plugin-fcm 2.1.2 "FCMPlugin"
+* cordova-plugin-inappbrowser 1.7.2-dev "InAppBrowser"
+* cordova-plugin-network-information 1.3.2 "Network Information"
+* cordova-plugin-statusbar 2.2.2 "StatusBar"
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
